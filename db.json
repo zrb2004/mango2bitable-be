@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "IP": "115.190.224.248",
+      "PORT": "27017",
+      "UNAME": "root",
+      "PWD": "Zrb19861012",
+      "DBNAME": "feishu_test",
+      "TABLENAME": "chat",
+      "loginAccount": "feishu_test",
+      "loginPassword": "Zrb19861012",
+      "TIME": "2025-11-26T07:00:33.249Z",
+      "fieldMapping": {
+        "_id": "fid_1"
+      }
+    }
+  ]
+}

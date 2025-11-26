@@ -4,7 +4,7 @@
   "type": "data_connector",
   "extraData": {
     "disabledPeriodicSync": false,
-    "dataSourceConfigUiUri": "https://744f6daa-a9a7-4eb1-b457-897fdd02e47e-00-3n4csd59wd8v2.kirk.replit.dev/",
+    "dataSourceConfigUiUri": "https://b9958072-f047-41dd-ba03-218c882f0356-00-2ik79fyx315wm.pike.replit.dev:5000/",
     "initHeight": 600,
     "initWidth": 600
   },

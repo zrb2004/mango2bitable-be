@@ -1,9 +1,9 @@
 entrypoint = "index.js"
-modules = ["nodejs-20:v10-20231103-2b03dda"]
+modules = ["nodejs-20"]
 hidden = [".config", "package-lock.json"]
 
 [nix]
-channel = "stable-23_05"
+channel = "stable-25_05"
 
 [deployment]
 run = ["node", "index.js"]

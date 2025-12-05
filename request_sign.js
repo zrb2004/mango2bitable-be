@@ -21,7 +21,7 @@ function judgeEncryptSignValid(req) {
       return true;
     }
 
-    const secretKey = "mango2bitable";
+    const secretKey = "mongo2bitable";
     // 拼接字符串
     const str = timestamp + nonce + secretKey + JSON.stringify(body);
     // 创建SHA-1加密实例

@@ -4,7 +4,7 @@
   "type": "data_connector",
   "extraData": {
     "disabledPeriodicSync": false,
-    "dataSourceConfigUiUri": "https://b9958072-f047-41dd-ba03-218c882f0356-00-2ik79fyx315wm.pike.replit.dev:5000/",
+    "dataSourceConfigUiUri": "https://mongo-fe.pangju.work/",
     "initHeight": 600,
     "initWidth": 600
   },
